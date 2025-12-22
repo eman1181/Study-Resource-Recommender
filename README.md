@@ -134,9 +134,9 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-[Your University/Institution]
-
+Eman-Omar-Yehia-Abdelmawla
+Nile University
+ML project
 ## 📄 License
 
 This project is for educational purposes.
